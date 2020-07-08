@@ -1,6 +1,6 @@
 {
   "name": "@cfriedline/theme-dracula",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Cookiecutter-based Dracula Theme for JupyterLab",
   "author": "Chris Friedline <chris@friedline.net>",
   "keywords": [

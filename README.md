@@ -6,7 +6,7 @@ This theme is based _heavily_ on https://github.com/dracula/jupyterlab
 
 ## Prerequisites
 
-- JupyterLab
+- JupyterLab 2.x
 
 ## Installation
 
