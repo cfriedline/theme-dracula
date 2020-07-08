@@ -190,6 +190,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-code-cursor-width0: 1.4px;
   --jp-code-cursor-width1: 2px;
   --jp-code-cursor-width2: 4px;
+  --jp-editor-cursor-color: var(--jp-ui-font-color0);
 
   /* Layout
    *
