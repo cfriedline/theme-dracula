@@ -2,9 +2,11 @@
 
 Cookiecutter-based Dracula Theme for JupyterLab
 
+This theme is based _heavily_ on https://github.com/dracula/jupyterlab
+
 ## Prerequisites
 
-* JupyterLab
+- JupyterLab
 
 ## Installation
 
