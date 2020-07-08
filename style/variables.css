@@ -329,6 +329,10 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   /* General editor styles */
 
+  --jp-editor-selected-background: var(--jp-layout-color2);
+  --jp-editor-selected-focused-background: #574473;
+  --jp-editor-cursor-color: #a9b7c6; /*{ border-left: 1px solid var(--jp-ui-font-color0) };*/
+
   --jp-mirror-editor-keyword-color: #ff79c6;
   --jp-mirror-editor-atom-color: #bd93f9;
   --jp-mirror-editor-number-color: #bd93f9;
