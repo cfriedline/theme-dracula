@@ -11,7 +11,7 @@ This theme is based _heavily_ on https://github.com/dracula/jupyterlab
 ## Installation
 
 ```bash
-jupyter labextension install cfriedline/theme-dracula
+jupyter labextension install @cfriedline/theme-dracula
 ```
 
 ## Development
